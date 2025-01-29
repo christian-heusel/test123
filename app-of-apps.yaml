@@ -8,7 +8,7 @@ metadata:
   namespace: default
 spec:
   destination:
-    namespace: default
+    namespace: infrastructure
     server: 'https://kubernetes.default.svc'
   project: default
   source:
